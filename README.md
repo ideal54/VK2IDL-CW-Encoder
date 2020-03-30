@@ -7,7 +7,7 @@ generates Morse Code for sending to a transceiver. It can also read text from a
 series of precoded buffers stored in the software. The buffers can be recalled by typing
 special characters on the keyboard. 
 
-It will also accept inpit from a standard Morse key as well as from a single-arm Paddle key.
+It will also accept input from a standard Morse key as well as from a single-arm Paddle key.
 
 The morse sending speed can be manually adjusted in preset steps between 5 WPM and 30 WPM. 
 Users can alter the software to provide a larger range or more steps than those currently 
