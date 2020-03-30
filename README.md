@@ -2,6 +2,7 @@
 Morse Code encoder for the Arduino
 
 GENERAL
+
 This program reads text characters typed from the Arduino IDE monitor's keyboard and 
 generates Morse Code for sending to a transceiver. It can also read text from a 
 series of precoded buffers stored in the software. The buffers can be recalled by typing
