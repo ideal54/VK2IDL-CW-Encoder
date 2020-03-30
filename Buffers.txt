@@ -1,0 +1,8 @@
+
+// =========== Preset Morse Messages ============
+[ =  " CQ CQ CQ DE VK2IDL VK2IDL K ";
+] =  " NAME IS IAN IAN. ";
+\ =  " QTH IS PORT MACQUARIE PORT MACQUARIE. ";
+{ =  " YR RST ";
+} =  " ANTENNA IS MULTIBAND TRAP DIPOLE. ";
+| =  " CQTEST CQTEST CQTEST DE VK2IDL. ";
