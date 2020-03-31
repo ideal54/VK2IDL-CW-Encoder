@@ -1,0 +1,12 @@
+Version 1.0
+Initial release
+
+Version 1.0a
+1. Corrected a buffer processing issue where typing 5 on the keyboard resulted in sending morse code
+   for '1' instead of '5'. The issue was caused by incorrect array counting which failed to process
+   the last character in the array (the last character being a '5').
+
+2. Made changes to the LCD text display code to provide tidier text display on the LCD. Also added 
+   code to display the morse speed on the LCD.
+
+3. Tidied up some code for clearer reading.
