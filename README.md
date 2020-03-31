@@ -130,8 +130,13 @@ For the SIGNAL message simply type } <ENTER> then follow it with the RST:
 e.g.  Type '}' <ENTER> 599 599 <ENTER> to send "YR RST 599 599"
 
 [  Buffer #1 - CQ_Mess[] = "CQ CQ CQ DE VK2IDL VK2IDL K "
+
 ]  Buffer #2 - NAME_Mess[] = "NAME IS IAN IAN. "
+
 \  Buffer #3 - QTH_Mess[] = "QTH IS PORT MACQUARIE. "
+
 {  Buffer #4 - SIGNAL_Mess[]="YR RST "
+
 }  Buffer #5 - ANT_Mess[] = "ANTENNA IS DIAMOND W8010 TRAP DIPOLE. "
+
 |  Buffer #6 - CQTest_Mess[] = "CQTEST CQTEST CQTEST DE VK2IDL. "
