@@ -77,17 +77,29 @@ MORSE (the code extracted using the binary bits). In the BINARY column, the code
 have been separated from the Start bit for visual clarity.
    
 NUM    BINARY   CHAR  MORSE
+
  00   00000000    # 
+ 
  01   00000001    #
+ 
  02   0000001 0   T     _
+ 
  03   0000001 1   E     .
+ 
  04   000001 00   M     _ _
+ 
  05   000001 01   N     _ .
+ 
  06   000001 10   A     . _
+ 
  07   000001 11   I     . .
+ 
  08   00001 000   O     _ _ _
+ 
 	. . . etc . . .
+	
  62   001 11110   4     . . . . _
+ 
  63   001 11111   5     . . . . .
  
 The second code section borrowed from "WB7FHC's Simple Morse Code Decoder is the 
@@ -107,6 +119,7 @@ two characters are on the same key (net to the '1' key) with the Morse-Up charac
 '~' being the shifted version of the Morse Down character '`'.
 
 `  Morse Speed DOWN
+
 ~  Morse Speed UP
 
 After typing the character, press the <ENTER> key to activate the cange. For example, 
